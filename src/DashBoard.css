@@ -1,0 +1,14 @@
+
+
+.bolded { font-weight: bold; color: #3232b6 }
+
+.Welcomebox{
+  width: 25%;
+  padding: 22px 82px;
+  margin: 10% 40%;
+  display: inline-block;
+  border: 8px solid rgba(97, 97, 97, 0.095);
+  border-radius: 18px;
+  box-sizing: border-box;
+  background-color:  #f2f2f2;
+}

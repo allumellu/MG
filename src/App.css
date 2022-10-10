@@ -1,0 +1,55 @@
+.input{
+  width: 100%;
+  padding: 10px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.button{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  background-color: rgba(25, 39, 195, 0.965);
+  color:white;
+}
+.button:disabled,
+button[disabled]{
+  border: 1px solid #999999;
+  background-color: #cccccc;
+  color: #666666;
+}
+
+.Signupbox{
+  width: fit-content;
+  padding: 22px 82px;
+  margin: 10% 40%;
+  display: inline-block;
+  border: 8px solid rgba(97, 97, 97, 0.095);
+  border-radius: 18px;
+  box-sizing: border-box;
+  background-color:  #f2f2f2;
+}
+
+i {
+  position: absolute;
+  top: 29.0%;
+  right: 5%;
+ 
+}
+i:hover {
+  color: #008ffc;
+  cursor: pointer;
+}
+
+.pass-wrapper {
+  position: relative;
+  display: flex;
+  margin-bottom: 22px;
+}
